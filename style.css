@@ -35,10 +35,9 @@ h4{color:aqua;
     margin-inline-end: 0px;
     font-weight: bold;
     text-align: center;}
-    
-    
 
-
-
-
+  body{background-image:url("fond arrière CV.png");
+       background-repeat: repeat-x;
+       
+}
 
